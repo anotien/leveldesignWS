@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T10:51:44.986Z" agent="5.0 (Windows)" etag="AkO-80aK8Cg0_8HzemkD" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-12T10:54:10.783Z" agent="5.0 (Windows)" etag="_1IeL05mQ_usPOQk5JQn" version="20.4.0" type="github" pages="3">
   <diagram id="2EN7eobbi5Up4LC5SwlU" name="feet">
     <mxGraphModel dx="1413" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -415,7 +415,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lSHsSCvz3blH_BfdFUIu" name="Legs">
-    <mxGraphModel dx="2184" dy="1489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2402" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -447,7 +447,7 @@
           <mxGeometry x="1390" y="1250" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VI3sz7Gtpd63u-Bfcg6n-7" value="" style="shape=actor;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="910" y="1310" width="40" height="60" as="geometry" />
+          <mxGeometry x="925" y="1250" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VI3sz7Gtpd63u-Bfcg6n-8" value="" style="shape=mxgraph.arrows2.wedgeArrowDashed2;html=1;bendable=0;startWidth=50;stepSize=15;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -457,8 +457,8 @@
         </mxCell>
         <mxCell id="VI3sz7Gtpd63u-Bfcg6n-9" value="" style="shape=mxgraph.arrows2.wedgeArrowDashed2;html=1;bendable=0;startWidth=98.57142857142858;stepSize=15;rounded=0;exitX=0.01;exitY=0.319;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VI3sz7Gtpd63u-Bfcg6n-7">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1098.2999999999997" y="1167.1149999999998" as="sourcePoint" />
-            <mxPoint x="964" y="1280" as="targetPoint" />
+            <mxPoint x="1113.2999999999997" y="1107.1149999999998" as="sourcePoint" />
+            <mxPoint x="979" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VI3sz7Gtpd63u-Bfcg6n-10" value="" style="shape=mxgraph.arrows2.wedgeArrowDashed2;html=1;bendable=0;startWidth=50;stepSize=15;rounded=0;" edge="1" parent="1">
@@ -592,8 +592,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y1xezzXiHiKPk3yCeklv-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3;endAngle=0.1;sketch=0;strokeColor=default;strokeWidth=3;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="610" y="599" width="100" height="100" as="geometry" />
+        <mxCell id="YO33sEBewpN2wPt0czpx-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.spiral_stairs;sketch=0;strokeWidth=1;rotation=90;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="619" y="560" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="GigRmGr0ZJ_fRmJO8bOS-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.spiral_stairs;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="904" y="1325" width="86" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="GigRmGr0ZJ_fRmJO8bOS-2" value="" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;strokeColor=none;sketch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="892" y="1340.5" width="110" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
